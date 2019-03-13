@@ -3,10 +3,8 @@
  *
  * @package     Cold Spring School
  * @subpackage  JS
- * @author      Adrian Morelos ~ Esteban Rocha ~ Jonathan Caiaffa
- * @link        https://github.com/adrian-morelos
- *              https://github.com/Esteban-Rocha
- *              https://github.com/jcaiaffa
+ * @author      Andres Posada
+ * @link        https://github.com/posadallano
  * @since       1.0.0
  */
 

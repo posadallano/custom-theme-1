@@ -1,4 +1,3 @@
-<?php
 /**
  * File mobile-navigation.js.
  *
